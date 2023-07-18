@@ -55,4 +55,6 @@ The Lenovo ThinkPad is the overall suggested option when specs and cost are take
 
 Users with a moderate budget might consider the HP Pavilion since it strikes a good mix between performance and price. However, the Lenovo ThinkPad is the suggested choice for individuals looking for a laptop with higher performance and future-proof features.
 
-remote_theme: Cayman
+source "https://rubygems.org"
+gem "github-pages", group: :jekyll_plugins
+
