@@ -30,7 +30,7 @@ Specification
 3. Larger SSD Storage: A larger SSD allows you to store more files, applications, and data, offering additional flexibility and reducing the need for external storage solutions.
 4. primary resources: https://www.amazon.com/Newest-HP-Pavilion-i3-1215U-Bluetooth/dp/B0B9QMZZJF/ref=sr_1_2?crid=HAWZMCOTJG2K&keywords=hp+computer&qid=1686060064&refinements=p_36%3A50000-75000&rnid=2421885011&s=pc&sprefix=hp+computer%2Caps%2C141&sr=1-2&ufe=app_do%3Aamzn1.fos.2b70bf2b-6730-4ccf-ab97-eb60747b8daf
 
-   **Amanue'ls option 2 Recommended Laptop**
+   **Amanuel's option 2 Recommended Laptop**
 ![Lenovo ThinkPad](LenovoThinkPad.jpg)
 
 Specification
