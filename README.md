@@ -54,3 +54,4 @@ Specification
 The Lenovo ThinkPad is the overall suggested option when specs and cost are taken into account. With the Intel Core i5 processor, double the RAM for easier multitasking, and a bigger and faster NVMe SSD for better storage and data access, it provides a noticeable performance gain. Even though it is the most expensive of the three, the improved performance and features make it worth the money, especially for customers who need additional computational power.
 
 Users with a moderate budget might consider the HP Pavilion since it strikes a good mix between performance and price. However, the Lenovo ThinkPad is the suggested choice for individuals looking for a laptop with higher performance and future-proof features.
+
