@@ -1,6 +1,6 @@
 # Recommendation
 CFO's Requested Laptop
-![Lenovo - Ideapad 1 15.6"](Levovo.jpg)
+![Lenovo - Ideapad 1 15.6"](Lenovo.jpg)
 
 **option 1 CFO's Requested Laptop**
 
@@ -12,7 +12,7 @@ Specification
 5. Price: $229.99
 
 **Amanuel's option 1 Recommended Laptop**
-![HP 2022 Newest Pavilion ](HP.jpeg)
+![HP 2022 Newest Pavilion ](HP.jpg)
 
 Specification
 1. CPU: Pavillon 14-ek0013dx
