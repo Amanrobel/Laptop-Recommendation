@@ -28,7 +28,7 @@ Specification
 2. More RAM:The HP Pavilion is equipped with 8GB of RAM, which is twice the amount of RAM found in the CFO's requested laptop. 
 
 3. Larger SSD Storage: A larger SSD allows you to store more files, applications, and data, offering additional flexibility and reducing the need for external storage solutions.
-4. primary resources: [IdeaPad](https://www.amazon.com/Newest-HP-Pavilion-i3-1215U-Bluetooth/dp/B0B9QMZZJF/ref=sr_1_2?crid=HAWZMCOTJG2K&keywords=hp+computer&qid=1686060064&refinements=p_36%3A50000-75000&rnid=2421885011&s=pc&sprefix=hp+computer%2Caps%2C141&sr=1-2&ufe=app_do%3Aamzn1.fos.2b70bf2b-6730-4ccf-ab97-eb60747b8daf "IdeaPad")
+4. primary resources: [HP Pavilion](https://www.amazon.com/Newest-HP-Pavilion-i3-1215U-Bluetooth/dp/B0B9QMZZJF/ref=sr_1_2?crid=HAWZMCOTJG2K&keywords=hp+computer&qid=1686060064&refinements=p_36%3A50000-75000&rnid=2421885011&s=pc&sprefix=hp+computer%2Caps%2C141&sr=1-2&ufe=app_do%3Aamzn1.fos.2b70bf2b-6730-4ccf-ab97-eb60747b8daf "HP Pavilion")
 
    **Amanuel's option 2 Recommended Laptop**
 ![Lenovo ThinkPad](LenovoThinkPad.jpg)
