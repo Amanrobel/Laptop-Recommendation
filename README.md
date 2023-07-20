@@ -10,6 +10,7 @@ Specification
 3. RAM: 4GB 
 4. Hard Drive Storage: 128GB SSD
 5. Price: $229.99
+6.  primary resources:[IdeaPad](https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-hd-laptop-athlon-silver-7120u-with-4gb-memory-128gb-ssd-cloud-grey/6531746.p?skuId=6531746 "IdeaPad")
 
 **Amanuel's option 1 Recommended Laptop**
 ![HP 2022 Newest Pavilion ](HP.jpg)
@@ -47,7 +48,7 @@ Specification
 2. Increased RAM Capacity: The 16GB RAM enables smoother multitasking, allows you to work with more memory-intensive applications simultaneously, and enhances overall system responsiveness.
  
 3. Larger and Faster SSD Storage: The Lenovo ThinkPad boasts a 512GB NVMe SSD, providing twice the storage capacity. Additionally, NVMe SSDs offer significantly faster read and write speeds compared to regular SATA SSDs.
-4. primary resources: https://www.amazon.com/dp/B0C8X1S97P/ref=sspa_dk_detail_1?pd_rd_i=B0C8X1S97P&pd_rd_w=Nf9uc&content-id=amzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_p=0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_r=RWY6KRXDTSYCZKS8QHYC&pd_rd_wg=NFwPz&pd_rd_r=9a086b4f-05e2-4862-9f60-7db66522cf36&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&th=1
+4. primary resources: [Lenovo ThinkPad](https://www.amazon.com/dp/B0C8X1S97P/ref=sspa_dk_detail_1?pd_rd_i=B0C8X1S97P&pd_rd_w=Nf9uc&content-id=amzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_p=0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_r=RWY6KRXDTSYCZKS8QHYC&pd_rd_wg=NFwPz&pd_rd_r=9a086b4f-05e2-4862-9f60-7db66522cf36&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&th=1 "Lenovo ThinkPad")
 
 **Overall recommendation**
 
